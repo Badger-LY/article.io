@@ -1,3 +1,6 @@
+
+- [减肥之路](https://github.com/Ziphtracks/JavaLearningmanual/blob/master/docs/Java-Standard-Edition/Java的概述与环境搭建.md)
+
 # 《黑天鹅》读书笔记（一）
 最近开始共读塔勒布的《黑天鹅》，准备把读书笔记写在这里，算是我的一个后花园吧，OK let's begin.
 
