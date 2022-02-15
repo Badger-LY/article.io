@@ -20,4 +20,4 @@
 3、体重变化
 4、囚徒健身会不会损伤手腕
 
-![Image]()
+![Image](fitness/energy_flux.png)
